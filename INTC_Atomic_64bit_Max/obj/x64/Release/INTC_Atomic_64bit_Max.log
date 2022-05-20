@@ -1,0 +1,10 @@
+﻿  INTC_Atomics_64bit_Max.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  1 of 432 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+igdext64.lib(igdextapi.obj) : warning LNK4099: PDB 'igdext64.pdb' was not found with 'igdext64.lib(igdextapi.obj)' or at 'C:\Users\Intel\Desktop\IntelExtensionsSamples\INTC_Atomic_64bit_Max\bin\x64\Release\igdext64.pdb'; linking object as if no debug info
+igdext64.lib(stdafx_lib.obj) : warning LNK4099: PDB 'igdext64.pdb' was not found with 'igdext64.lib(stdafx_lib.obj)' or at 'C:\Users\Intel\Desktop\IntelExtensionsSamples\INTC_Atomic_64bit_Max\bin\x64\Release\igdext64.pdb'; linking object as if no debug info
+  INTC_Atomic_64bit_Max.vcxproj -> C:\Users\Intel\Desktop\IntelExtensionsSamples\INTC_Atomic_64bit_Max\bin\x64\Release\INTC_Atomics_64bit_Max.exe
