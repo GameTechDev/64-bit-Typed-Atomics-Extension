@@ -7,9 +7,10 @@ Intel offers a subset of the HLSL Shader Model 6.6 64-bit Typed Atomic support t
 ## Limitations
 
 It is important to understand that there are limitations to the 64-bit typed atomic support on DG2/Alchemist. Because of these limitations we are exposing what we can support via an extension until we are able to more fully support Shader Model 6.6. 
-•	D3D12_RESOURCE_DIMENSION_TEXTURE2D only
-•	No mip-map surfaces, no 3D surfaces or 2D arrays
-•	We are not supporting subregions of a surface
+
+- D3D12_RESOURCE_DIMENSION_TEXTURE2D only
+- No mip-map surfaces, no 3D surfaces or 2D arrays
+- We are not supporting subregions of a surface
 
 ## The Sample
 
