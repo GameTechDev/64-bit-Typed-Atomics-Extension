@@ -1,5 +1,5 @@
 
-# 64-bit-Typed-Atomics-Extension
+# Intel 64-bit Typed Atomics Extension
 
 ## Introduction
 
