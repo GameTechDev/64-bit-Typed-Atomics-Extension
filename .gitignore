@@ -32,3 +32,5 @@
 *.app
 
 *.vs
+*.suo
+*.VC.db
