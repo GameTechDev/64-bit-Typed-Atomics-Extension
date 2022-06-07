@@ -6,18 +6,30 @@ c:\users\intel\desktop\intelextensionssamples\intc_atomic_64bit_max\obj\x64\rele
 c:\users\intel\desktop\intelextensionssamples\intc_atomic_64bit_max\obj\x64\release\intc_atomics_64bit_max.obj
 c:\users\intel\desktop\intelextensionssamples\intc_atomic_64bit_max\obj\x64\release\win32application.obj
 c:\users\intel\desktop\intelextensionssamples\intc_atomic_64bit_max\bin\x64\release\shaders.hlsl
+c:\users\intel\desktop\intelextensionssamples\intc_atomic_64bit_max\bin\x64\release\intc_atomics_64bit_max.cso
 c:\users\intel\desktop\intelextensionssamples\intc_atomic_64bit_max\bin\x64\release\intc_atomics_64bit_max.ipdb
 c:\users\intel\desktop\intelextensionssamples\intc_atomic_64bit_max\bin\x64\release\intc_atomics_64bit_max.iobj
 c:\users\intel\desktop\intelextensionssamples\intc_atomic_64bit_max\bin\x64\release\intc_atomics_64bit_max.exe
 c:\users\intel\desktop\intelextensionssamples\intc_atomic_64bit_max\bin\x64\release\intc_atomics_64bit_max.pdb
-c:\users\intel\desktop\intelextensionssamples\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\cl.command.1.tlog
-c:\users\intel\desktop\intelextensionssamples\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\cl.read.1.tlog
-c:\users\intel\desktop\intelextensionssamples\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\cl.write.1.tlog
-c:\users\intel\desktop\intelextensionssamples\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\custombuild.command.1.tlog
-c:\users\intel\desktop\intelextensionssamples\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\custombuild.read.1.tlog
-c:\users\intel\desktop\intelextensionssamples\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\custombuild.write.1.tlog
-c:\users\intel\desktop\intelextensionssamples\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\intc_atomics_64bit_max.write.1u.tlog
-c:\users\intel\desktop\intelextensionssamples\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\link.command.1.tlog
-c:\users\intel\desktop\intelextensionssamples\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\link.delete.1.tlog
-c:\users\intel\desktop\intelextensionssamples\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\link.read.1.tlog
-c:\users\intel\desktop\intelextensionssamples\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\link.write.1.tlog
+c:\users\duboism\onedrive - intel corporation\documents\github\64-bit-typed-atomics-extension\intc_atomic_64bit_max\obj\x64\release\dxsample.obj
+c:\users\duboism\onedrive - intel corporation\documents\github\64-bit-typed-atomics-extension\intc_atomic_64bit_max\obj\x64\release\intc_atomics_64bit_max.obj
+c:\users\duboism\onedrive - intel corporation\documents\github\64-bit-typed-atomics-extension\intc_atomic_64bit_max\obj\x64\release\main.obj
+c:\users\duboism\onedrive - intel corporation\documents\github\64-bit-typed-atomics-extension\intc_atomic_64bit_max\obj\x64\release\stdafx.obj
+c:\users\duboism\onedrive - intel corporation\documents\github\64-bit-typed-atomics-extension\intc_atomic_64bit_max\obj\x64\release\win32application.obj
+c:\users\duboism\onedrive - intel corporation\documents\github\64-bit-typed-atomics-extension\intc_atomic_64bit_max\obj\x64\release\intc_atomics_64bit_max.pch
+c:\users\duboism\onedrive - intel corporation\documents\github\64-bit-typed-atomics-extension\intc_atomic_64bit_max\obj\x64\release\vc142.pdb
+c:\users\duboism\onedrive - intel corporation\documents\github\64-bit-typed-atomics-extension\intc_atomic_64bit_max\bin\x64\release\intc_atomics_64bit_max.exe
+c:\users\duboism\onedrive - intel corporation\documents\github\64-bit-typed-atomics-extension\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\cl.command.1.tlog
+c:\users\duboism\onedrive - intel corporation\documents\github\64-bit-typed-atomics-extension\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\cl.read.1.tlog
+c:\users\duboism\onedrive - intel corporation\documents\github\64-bit-typed-atomics-extension\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\cl.write.1.tlog
+c:\users\duboism\onedrive - intel corporation\documents\github\64-bit-typed-atomics-extension\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\custombuild.command.1.tlog
+c:\users\duboism\onedrive - intel corporation\documents\github\64-bit-typed-atomics-extension\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\custombuild.read.1.tlog
+c:\users\duboism\onedrive - intel corporation\documents\github\64-bit-typed-atomics-extension\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\custombuild.write.1.tlog
+c:\users\duboism\onedrive - intel corporation\documents\github\64-bit-typed-atomics-extension\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\fxc.command.1.tlog
+c:\users\duboism\onedrive - intel corporation\documents\github\64-bit-typed-atomics-extension\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\fxc.read.1.tlog
+c:\users\duboism\onedrive - intel corporation\documents\github\64-bit-typed-atomics-extension\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\fxc.write.1.tlog
+c:\users\duboism\onedrive - intel corporation\documents\github\64-bit-typed-atomics-extension\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\intc_atomics_64bit_max.write.1u.tlog
+c:\users\duboism\onedrive - intel corporation\documents\github\64-bit-typed-atomics-extension\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\link.command.1.tlog
+c:\users\duboism\onedrive - intel corporation\documents\github\64-bit-typed-atomics-extension\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\link.delete.1.tlog
+c:\users\duboism\onedrive - intel corporation\documents\github\64-bit-typed-atomics-extension\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\link.read.1.tlog
+c:\users\duboism\onedrive - intel corporation\documents\github\64-bit-typed-atomics-extension\intc_atomic_64bit_max\obj\x64\release\intc_ato.16b13bb4.tlog\link.write.1.tlog
