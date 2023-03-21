@@ -517,7 +517,6 @@ void INTC_Atomics_64bit_Max::LoadAssets()
 #if defined(_DEBUG)
         // Enable better shader debugging with the graphics debugging tools.
         //UINT compileFlags = D3DCOMPILE_DEBUG | D3DCOMPILE_SKIP_OPTIMIZATION;
-        //known issue documented at bottom of this file with D3DCOMPILE_SKIP_OPTIMIZATION: https://developer.nvidia.com/unlocking-gpu-intrinsics-hlsl
         UINT compileFlags = D3DCOMPILE_DEBUG;
 #else
         UINT compileFlags = 0;
@@ -536,7 +535,7 @@ void INTC_Atomics_64bit_Max::LoadAssets()
         D3D12_COMPUTE_PIPELINE_STATE_DESC psoDesc = {};
         psoDesc.pRootSignature = m_computeRootSignature.Get();
 
-        //compiled with MSVC->Tools->Commnad Line->Developer Command Prompt: Dxc -E CSMain -T cs_5_1 shaders_atomics_RWTexture2D.hlsl -Fo CSMain.csp
+        //compiled with MSVC->Tools->Commnad Line->Developer Command Prompt: Dxc -E CSMain -T cs_5_1 shaders_atomics_RWTexture2D.hlsl -Fo CSMain.cso /Od
         psoDesc.CS = CD3DX12_SHADER_BYTECODE(pComputeShaderData, computeShaderDataLength);
 
         {
