@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\GitHub\64-bit-Typed-Atomics-Extension\INTC_Atomic_64bit_Max\bin\x64\Debug\INTC_Atomics_64bit_Max.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\GitHub\64-bit-Typed-Atomics-Extension\INTC_Atomic_64bit_Max\bin\x64\Debug\INTC_Atomics_64bit_Max.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\GitHub\64-bit-Typed-Atomics-Extension\INTC_Atomic_64bit_Max\shaders.hlsl</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\GitHub\64-bit-Typed-Atomics-Extension\INTC_Atomic_64bit_Max\bin\x64\Debug\shaders.hlsl</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

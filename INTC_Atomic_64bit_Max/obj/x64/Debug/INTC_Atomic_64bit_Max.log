@@ -1,0 +1,4 @@
+﻿igdext64.lib(igdextapi.obj) : warning LNK4099: PDB '' was not found with 'igdext64.lib(igdextapi.obj)' or at ''; linking object as if no debug info
+igdext64.lib(stdafx_lib.obj) : warning LNK4099: PDB '' was not found with 'igdext64.lib(stdafx_lib.obj)' or at ''; linking object as if no debug info
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  INTC_Atomic_64bit_Max.vcxproj -> C:\GitHub\64-bit-Typed-Atomics-Extension\INTC_Atomic_64bit_Max\bin\x64\Debug\INTC_Atomics_64bit_Max.exe

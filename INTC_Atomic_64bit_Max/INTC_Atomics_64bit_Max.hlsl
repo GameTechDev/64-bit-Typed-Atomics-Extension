@@ -1,5 +1,5 @@
 #define INTEL_SHADER_EXT_UAV_SLOT u7
-#include "IntelExtensions_InternalUseOnly12.hlsl"
+#include "IntelExtensions12.hlsl"
 
 #define TEX_WIDTH 640
 #define TEX_HEIGHT 480
